@@ -1,0 +1,28 @@
+name: Jofalltrades
+favicon: null
+layout_spectrum: 0.340069689322263
+typography_spectrum: 0.9272050827275962
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8262166518252343
+  lightness: 0.45484139304608107
+  saturation: 0.41176236397586763
+  rhythmicContrast: 0.18848924827761948
+purpose: []
